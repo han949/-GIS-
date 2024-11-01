@@ -1,0 +1,17 @@
+1、场景底图 
+          服务地址：http://map.geoq.cn/arcgis/rest/services/ChinaOnlineStreetPurplishBlue/MapServer（暗色）
+                           http://map.geoq.cn/arcgis/rest/services/ChinaOnlineCommunity/MapServer     （亮色）
+
+2、三维建筑模型 
+         服务地址：https://services2.arcgis.com/cFEFS0EWrhfDeVw9/arcgis/rest/services/STM____F_Helsinki__Textured_buildings_with_attributes/SceneServer/layers/0
+         部分建筑材质：concrete or lightweight concrete 、wood 、brick、steel、 other
+
+3、面要素图层 
+         服务地址：https://www.geosceneonline.cn/server/rest/services/Hosted/hf_polygon/FeatureServer/0
+         数据位置：center:[116.75939403979186,31.924762501436213],zoom:9
+         数据坐标系：web墨卡托（wkid:102100）
+
+4、线要素图层 
+         服务地址：https://www.geosceneonline.cn/server/rest/services/Hosted/hf_line/FeatureServer/0
+         数据位置：center:[116.75939403979186,31.924762501436213],zoom:9
+         数据坐标系：web墨卡托（wkid:102100）
